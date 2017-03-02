@@ -1,0 +1,43 @@
+* {
+  font-family: 'Droid Sans', sans-serif;
+}
+
+section {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3%;
+  width: 50%;
+  padding: 3%;
+  clear: both;
+  overflow: auto;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+h2 {
+  display: block;
+  clear: both;
+}
+
+p {
+  float: left;
+  width: 60%;
+  margin: auto;
+}
+
+img {
+  width: 30%;
+  padding-left: 10px;
+  margin: 0;
+}
